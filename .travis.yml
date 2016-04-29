@@ -1,0 +1,32 @@
+language: c++
+
+branches:
+  only:
+    - master
+
+sudo: required
+
+before_install:
+  - wget https://github.com/spf13/hugo/releases/download/v0.15/hugo_0.15_amd64.deb
+  - sudo dpkg -i hugo_0.15_amd64.deb
+
+before_script:
+  - cd ${TRAVIS_BUILD_DIR}/..
+  - git clone https://gist.github.com/b73112ba396df4b6f1c0a9ac6c122ce5.git gist-deploy
+  - cd ${TRAVIS_BUILD_DIR}
+  - hugo version
+  - mkdir themes
+  - git clone --depth 1 https://github.com/digitalcraftsman/hugo-material-docs themes/docs
+
+script:
+  - hugo
+  - export DEPLOY_DIR=${TRAVIS_BUILD_DIR}/public
+
+after_success:
+  - pwd
+  - bash ${TRAVIS_BUILD_DIR}/../gist-deploy/deploy_ghpages.sh
+
+env:
+  global:
+    - GIT_EMAIL: travis@example.com
+    - secure: c/Brk2GWrqUR4CYNEGtOl9SCmx2kLl63mFmscaYUKiqeXSKF0/3ZuM1s5Lyr6Voj3WD2hiH47pCijg0B3ti6ge1mU7HIPFHOip+uMC8p9dzXHzmmzBihFHN0yzNcYRTG45WikzCNEm4fsu2gPc9ObvEv655MDgnXsxBlXRyZH7pJilCjpAao5dOKXFteHj9MxboCNBelrdnCRnlgHEzZRewCx+E4tW/xoNpP2PNvmZiYK5cuivQktVq9cJJSwr5I/aD4LciJ4caEPhA0ShNTvoClDocgYGM6pSStzMjIZjJwvzhdJLxs7Lv3FXrvbxQkqH+Vd/jtxArvJiFnhRdS/sOTvnLkGfGg2wwHMx8DYSzYkQn2iVB5qK+TnZZH4hSGC7cYH5Bjk8PY+3ctRmWZdezfsQyBTlv6X6PJhOTileO6DvA96QT17YIrhC36rIB5c5kRmqVxfhCvNwPkASnNOm5PGLXCV18Ly+pPy5w6WtNKPiGlYX5nb9gkUrK0azn0awtD3ZZblb2JWHGf2FfUVwMbFG5cQ1pvmej94/GKuqMBG8cCgwSf9A4gsxJUiE1Vve8F1r7/wOE8FV15j+BKfk3fMbIcQGzRE57pWqzBdS70c16LcxVCKm8vUqmiTrBLwtzntyCOS1CVwvwxo8Xrs3/yPoLdm3eqAJCLvikT8Gk=
