@@ -1,4 +1,4 @@
-baseurl = "http://moos-ivp.github.io/open-docs"
+baseurl = "http://moos-ivp.github.io/open-docs/"
 languageCode = "en-us"
 title = "MOOS-IvP Open-Docs"
 theme = "docs"
