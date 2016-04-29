@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOOS-IvP Open-Docs</title>
+    <link>http://moos-ivp.github.io/open-docs/</link>
+    <description>Recent content on MOOS-IvP Open-Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 21:41:13 -0400</lastBuildDate>
+    <atom:link href="http://moos-ivp.github.io/open-docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>License</title>
+      <link>http://moos-ivp.github.io/open-docs/license/</link>
+      <pubDate>Tue, 26 Apr 2016 21:41:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/license/</guid>
+      <description>
+
+&lt;h2 id=&#34;moos-ivp-is-under-gplv3&#34;&gt;MOOS-IvP is under GPLv3&lt;/h2&gt;
+
+&lt;p&gt;MOOS-IvP is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt;
+
+&lt;p&gt;MOOS-IvP is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.&lt;/p&gt;
+
+&lt;p&gt;You should have received a copy of the GNU General Public License along with MOOS-IvP.  If not, see &lt;a href=&#34;http://www.gnu.org/licenses/&#34;&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;webpage&#34;&gt;Webpage&lt;/h2&gt;
+
+&lt;p&gt;This pages has been generated using &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; using the &lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34;&gt;Material&lt;/a&gt; theme under the MIT license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use Cases &amp; Demos</title>
+      <link>http://moos-ivp.github.io/open-docs/usecases/</link>
+      <pubDate>Tue, 26 Apr 2016 21:40:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/usecases/</guid>
+      <description>&lt;p&gt;Community use cases and demos&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Community Apps</title>
+      <link>http://moos-ivp.github.io/open-docs/communityapps/</link>
+      <pubDate>Tue, 26 Apr 2016 21:39:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/communityapps/</guid>
+      <description>&lt;p&gt;Community developed apps&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>http://moos-ivp.github.io/open-docs/contributing/</link>
+      <pubDate>Tue, 26 Apr 2016 21:38:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/contributing/</guid>
+      <description>&lt;p&gt;Contributing Guidelines&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOOS-IvP Marine Autonomy Suite Open Documentation</title>
+      <link>http://moos-ivp.github.io/open-docs/</link>
+      <pubDate>Tue, 26 Apr 2016 21:37:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/</guid>
+      <description>
+
+&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+
+&lt;p&gt;This website is dedicated to the documentation written by the community of &lt;a href=&#34;http://moos-ivp.github.io/&#34;&gt;MOOS-IvP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Its goal is to enable the community and the MOOS users in general to share the documentation and their uses cases of the MOOS and MOOS-IvP.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

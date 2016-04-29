@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributings on MOOS-IvP Open-Docs</title>
+    <link>http://moos-ivp.github.io/open-docs/contributing/</link>
+    <description>Recent content in Contributings on MOOS-IvP Open-Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 21:38:13 -0400</lastBuildDate>
+    <atom:link href="http://moos-ivp.github.io/open-docs/contributing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contributing</title>
+      <link>http://moos-ivp.github.io/open-docs/contributing/</link>
+      <pubDate>Tue, 26 Apr 2016 21:38:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/contributing/</guid>
+      <description>&lt;p&gt;Contributing Guidelines&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/</loc>
+    <lastmod>2016-04-26T21:41:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/license/</loc>
+    <lastmod>2016-04-26T21:41:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/usecases/</loc>
+    <lastmod>2016-04-26T21:40:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/communityapps/</loc>
+    <lastmod>2016-04-26T21:39:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/contributing/</loc>
+    <lastmod>2016-04-26T21:38:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://moos-ivp.github.io/open-docs/</loc>
+    <lastmod>2016-04-26T21:37:13-04:00</lastmod>
+  </url>
+  
+</urlset>

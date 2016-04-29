@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Licenses on MOOS-IvP Open-Docs</title>
+    <link>http://moos-ivp.github.io/open-docs/license/</link>
+    <description>Recent content in Licenses on MOOS-IvP Open-Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 21:41:13 -0400</lastBuildDate>
+    <atom:link href="http://moos-ivp.github.io/open-docs/license/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>License</title>
+      <link>http://moos-ivp.github.io/open-docs/license/</link>
+      <pubDate>Tue, 26 Apr 2016 21:41:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/license/</guid>
+      <description>
+
+&lt;h2 id=&#34;moos-ivp-is-under-gplv3&#34;&gt;MOOS-IvP is under GPLv3&lt;/h2&gt;
+
+&lt;p&gt;MOOS-IvP is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt;
+
+&lt;p&gt;MOOS-IvP is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.&lt;/p&gt;
+
+&lt;p&gt;You should have received a copy of the GNU General Public License along with MOOS-IvP.  If not, see &lt;a href=&#34;http://www.gnu.org/licenses/&#34;&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;webpage&#34;&gt;Webpage&lt;/h2&gt;
+
+&lt;p&gt;This pages has been generated using &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; using the &lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34;&gt;Material&lt;/a&gt; theme under the MIT license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

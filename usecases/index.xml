@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usecases on MOOS-IvP Open-Docs</title>
+    <link>http://moos-ivp.github.io/open-docs/usecases/</link>
+    <description>Recent content in Usecases on MOOS-IvP Open-Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 21:40:13 -0400</lastBuildDate>
+    <atom:link href="http://moos-ivp.github.io/open-docs/usecases/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Use Cases &amp; Demos</title>
+      <link>http://moos-ivp.github.io/open-docs/usecases/</link>
+      <pubDate>Tue, 26 Apr 2016 21:40:13 -0400</pubDate>
+      
+      <guid>http://moos-ivp.github.io/open-docs/usecases/</guid>
+      <description>&lt;p&gt;Community use cases and demos&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
